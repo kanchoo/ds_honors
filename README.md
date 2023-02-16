@@ -1,6 +1,6 @@
 # Data Science Honors Thesis - Project - Impact of Data Scholars on Data 8 (2021 - 2022)
 
-_Kanchana Samala
+_Kanchana Samala_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
 
