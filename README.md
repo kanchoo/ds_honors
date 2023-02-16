@@ -1,12 +1,10 @@
 # Data Science Honors Thesis - Project - Impact of Data Scholars on Data 8 (2021 - 2022)
 
-_Kanchana Samala, Ciara Acosta_
+_Kanchana Samala
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
 
-This project for L&S 88 attempts to recreate the analysis by Chris Pyles in his notebook which analyzes an insurance data set from Kaggle. 
-The purpose of this project is to attempt to reproduce the findings in the original analysis regarding the relationship between smoker status 
-and insurance charges. We will also evaluate the efficacy and reliability of this data set to qualify any conclusions that we draw. 
+This project for DATA 159AB attempts to recreate the analysis by Kanchana Samala in her notebook which analyzes an administrative data set from UC Berkeley. The purpose of this project is to attempt to reproduce the findings in the original analysis regarding the relationships between participation in data scholars and Data 8 performance, participation in data scholars and sense of belonging, and creation in data scholars and diversity in data 8. We will also evaluate the efficacy and reliability of this data set to qualify any conclusions that we draw. 
 For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
 
 ## Directory Structure
