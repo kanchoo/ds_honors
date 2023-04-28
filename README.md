@@ -2,8 +2,6 @@
 
 _Kanchana Samala_
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project/master)
-
 This project attempts to recreate the analysis done by Kanchana Samala in her Honors Thesis Project which analyzes an administrative data set from UC Berkeley. The purpose of this project is to attempt to reproduce the findings in the original analysis regarding the relationships between participation in data scholars and Data 8 performance and participation in data scholars and student sense of belonging. We will also evaluate the efficacy and reliability of this data set to qualify any conclusions that we draw. 
 
 For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
