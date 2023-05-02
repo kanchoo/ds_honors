@@ -11,4 +11,4 @@ This repo contains a few subfolders which contain the elements of this project.
 | Folder | Description |
 |-----|-----|
 | `images`  | image files used in the Jupyter Notebooks  |
-| `notebooks`  | Jupyter Notebook files, including reproduction analysis using both `pandas` and `datascience`, as well as the Pre-Analysis Plan and a "blank" notebook  |
+| `notebooks`  | Jupyter Notebook files, including reproduction analysis using both `pandas` and `datascience`  |
