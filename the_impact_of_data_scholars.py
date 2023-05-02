@@ -26,18 +26,18 @@ from sklearn.metrics import classification_report, confusion_matrix, r2_score
 # In[622]:
 
 
-# load all IUSE Data - Admin Datasets (appended cohort & term data)
+# load all Admin Datasets (appended cohort & student data)
 
-admin_student = pd.read_csv('../_data_renamed/admin_appended/UCB_Admin_Student_FA2010FA2022.csv')
-admin_course = pd.read_csv('../_data_renamed/admin_appended/UCB_Admin_Course_FA2010FA2022.csv') 
+admin_student = pd.read_csv('_Admin_Student_FA2010FA2022.csv')
+admin_course = pd.read_csv('_Admin_Course_FA2010FA2022.csv') 
 
 # load Fall 2021 & Spring 2022 IUSE Data - Survey Datasets
 
-survey_pre_sp22 = pd.read_csv('../_data_renamed/survey_renamed/UCB_Survey_MainB_002_SP2022Pre.csv')
-survey_post_sp22 = pd.read_csv('../_data_renamed/survey_renamed/UCB_Survey_MainB_003_SP2022Post.csv')
+survey_pre_sp22 = pd.read_csv('_Survey_SP2022Pre.csv')
+survey_post_sp22 = pd.read_csv('_Survey_SP2022Post.csv')
 
-survey_pre_f21 = pd.read_csv('../_data_renamed/survey_renamed/UCB_Survey_MainA_007_FA2021Pre.csv')
-survey_post_f21 = pd.read_csv('../_data_renamed/survey_renamed/UCB_Survey_MainB_001_FA2021Post.csv')
+survey_pre_f21 = pd.read_csv('_Survey_FA2021Pre.csv')
+survey_post_f21 = pd.read_csv('_Survey_FA2021Post.csv')
 
 # load Data Scholars & Comparison Students Research IDs (Fall 2021 & Spring 2022)
 
